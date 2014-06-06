@@ -1,7 +1,7 @@
 Content-Management-System
 =========================
 
-[ Admin login] 
+[ Admin login]
 [ User login] 
 [ CRUD pages ] 
 [ Attach forms to pages] 
